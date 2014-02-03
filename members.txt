@@ -1,0 +1,4 @@
+member_ID		INT		AUTONUM		NOT 	NULL
+member_Name		VARCHAR(50)
+member_Mobile	VARCHAR(25)
+member_Email	VARCHAR(255)
